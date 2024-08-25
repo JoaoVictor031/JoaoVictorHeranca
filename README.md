@@ -1,10 +1,11 @@
 ## Estrutura dos Pacotes do Projeto
 
-- **Questão 1**: Contém a implementação das classes da primeira questão.
-- **Questão 2**: Contém a implementação das classes da segunda questão.
-- **Questão 3**: Contém a implementação das classes da terceira questão.
-- **Questão 4**: Contém a implementação das classes da quarta questão.
-- **Questão 5**: Contém a implementação das classes da quinta questão.
+- **Questão 1**: Contém a implementação da classe Pessoa.
+- **Questão 2**: Contém a implementação das classes Pessoa e Fornecedor.
+- **Questão 3**: Contém a implementação das classes Pessoa e Empregado.
+- **Questão 4**: Contém a implementação das classes Pessoa, Empregado e Adiministrador.
+- **Questão 5**: Contém a implementação das classes Pessoa, Empregado, Adiministrador e Operário.
+- **Questão 6**: Contém a implementação das classes Pessoa, Empregado, Adiministrador, Operário e Vendedor.
 
 Cada pacote pode ter uma ou mais classes, conforme necessário para resolver os problemas propostos.
 
