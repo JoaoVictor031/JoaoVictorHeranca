@@ -1,5 +1,4 @@
-###Projeto
-## Estrutura dos Pacotes
+## Estrutura dos Pacotes do Projeto
 
 - **Questão 1**: Contém a implementação das classes da primeira questão.
 - **Questão 2**: Contém a implementação das classes da segunda questão.
